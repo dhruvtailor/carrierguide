@@ -1,0 +1,55 @@
+.title
+{
+	font-size:30px;
+	font-weight:bold;
+	color:white;
+}
+.content
+{
+	font-size:18px;
+	color:white;
+}
+.background
+{
+	background-color:gray;
+}
+.title2
+{
+	font-size:30px;
+	font-weight:bold;
+	color:Black;
+}
+.content2
+{
+	font-size:18px;
+	color:red;
+}
+.linka
+{
+	display:table-cell;
+	width: 327px;
+	background-color:#ffffcc;
+}
+.linktype
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+.linktype li
+{
+	float:left;
+}
+a:link, a:visited {
+    background-color: #5446d3;
+    color: white;
+    text-align: center;	
+	padding: 5px;
+    text-decoration: none;
+    display: block;
+}
+a:hover{
+	background-color:#0000ff;
+	color:white;
+}
